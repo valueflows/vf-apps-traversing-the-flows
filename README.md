@@ -14,4 +14,6 @@ Each Resource (Apples, #3 Apples, Cider, Hard Cider) has links to its previous E
 
 The resource flow graph could be as long as necessary.  And could include equipment/tool usage and work.
 
+See also https://valueflo.ws/appendix/track.html
+
 *This README is a placeholder. The actual spec will evolve in issues, and then summarized here.*
